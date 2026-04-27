@@ -25,7 +25,7 @@ if($conn->connect_error){
         </style>
     </head>
     <body>
-        <h1>Stack LAMP con Docker</h1>
+        <h1>Stack LAMP con Docker ITL</h1>
         <p class="ok">Conexión a MySql exitosa</p>
         <div class="info">
             <p><strong>Servidor MySQL:</strong> <?= $conn->host_info; ?></p>
